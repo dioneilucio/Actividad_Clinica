@@ -1,0 +1,3 @@
+1;8/04/2021;Dolor de estomago;Dr Rolando;Dionei Lucio;
+2;08/04/2021;Limpieza bocal;Dionei;Arely;
+3;09/04/2021;Revicion general;Dr Fabricio;Dalina Lucio;
